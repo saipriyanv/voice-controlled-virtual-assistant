@@ -19,5 +19,4 @@ This project is a voice-controlled AI assistant built using Python that can inte
 
 Designed as a modular and beginner-friendly project, it demonstrates how to combine multiple technologies like speech processing, automation, and artificial intelligence into a single application. The system also maintains a simple conversational memory and can save AI-generated outputs for later use. This project serves as a strong foundation for building more advanced virtual assistants with features like wake-word detection, GUI interfaces, and personalized interactions.
 This is inspired by Jarvis Virtual assistant
-If you want, I can 
-make a short one-line description (for GitHub repo header) too 👍
+
